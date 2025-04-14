@@ -1,4 +1,4 @@
-# fitness
+# Trekia
 
 A new Flutter project.
 
