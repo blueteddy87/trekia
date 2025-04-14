@@ -195,6 +195,7 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
+  //AppBar
   AppBar appBar() {
     return AppBar(
       title: const Text(
